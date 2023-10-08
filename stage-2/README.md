@@ -1,13 +1,15 @@
 ### Stage 2
 
-#### Welcome
+ℹ️ **If the links in the PDF do not work in the browser, download them to your machine locally and open them up in your local viewer.** ℹ️
+
+#### 👋 Welcome
 - [Welcome PDF](./google-cloud-certification-journey-professional-cloud-architect.pdf)
 
 #### Pre-work
 - [Professional Cloud Architect Certification Exam Guide](https://cloud.google.com/learn/certification/cloud-architect?hl=en)
 - [Professional Cloud Architect Certification Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSf54f7FbtSJcXUY6-DUHfBG31jZ3pujgb8-a5io_9biJsNpqg/viewform)
 
-#### Week 1
+#### 🕰️ Week 1
 
 ##### Material
 - [Week 1 slides](./material/w1-essential-google-cloud-infra-foundation.pdf)

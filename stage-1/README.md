@@ -1,5 +1,7 @@
 # Google Cloud Fundamentals: Core Infrastructure
 
+ℹ️ **If the links in the PDF do not work in the browser, download them to your machine locally and open them up in your local viewer.** ℹ️
+
 ## Welcome
 - [Welcome PDF](./gcp-certified-program-2023.pdf)
 
