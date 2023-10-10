@@ -1,6 +1,7 @@
 ### Stage 2
 
 ℹ️ **If the links in the PDF do not work in the browser, download them to your machine locally and open them up in your local viewer.** ℹ️
+ℹ️ **A ⭐ Denotes a Skill Badge course** ℹ️
 
 #### 👋 Welcome
 - [Welcome PDF](./google-cloud-certification-journey-professional-cloud-architect.pdf)
@@ -16,7 +17,7 @@
 
 ##### Labs
 - [Essential Google Cloud Infrastructure: Core Services  on Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/49)
-- [Setup and Configure Cloud Environment on Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/625)
+- [Setup and Configure Cloud Environment on Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/625) ⭐
 
 #### 🕰️ Week 1
 
@@ -24,8 +25,8 @@
 - [Week 1 slides](./material/w1-essential-google-cloud-infra-foundation.pdf)
 
 ##### Labs
-- [Create and Manage Cloud Resources on Google Cloud Skills Boost](https://www.cloudskillsboost.google/quests/120)
-- [Perform Foundational Infrastructure Tasks in Google Cloud  on Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/637)
+- [Create and Manage Cloud Resources on Google Cloud Skills Boost](https://www.cloudskillsboost.google/quests/120) ⭐
+- [Perform Foundational Infrastructure Tasks in Google Cloud  on Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/637) ⭐
 - [Essential Google Cloud Infrastructure: Foundation  on Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/50)
 
 
