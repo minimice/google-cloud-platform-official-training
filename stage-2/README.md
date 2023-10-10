@@ -9,6 +9,15 @@
 - [Professional Cloud Architect Certification Exam Guide](https://cloud.google.com/learn/certification/cloud-architect?hl=en)
 - [Professional Cloud Architect Certification Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSf54f7FbtSJcXUY6-DUHfBG31jZ3pujgb8-a5io_9biJsNpqg/viewform)
 
+#### 🕰️ Week 2
+
+##### Material
+- [Week 2 slides](./material/w2-essential-google-cloud-infra-core-services.pdf)
+
+##### Labs
+- [Essential Google Cloud Infrastructure: Core Services  on Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/49)
+- [Setup and Configure Cloud Environment on Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/625)
+
 #### 🕰️ Week 1
 
 ##### Material
