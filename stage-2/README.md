@@ -1,6 +1,6 @@
 ### Stage 2
 
-ℹ️ **If the links in the PDF do not work in the browser, download them to your machine locally and open them up in your local viewer.** ℹ️
+ℹ️ **If the links in the PDF do not work in the browser, download them to your machine locally and open them up in your local viewer.** ℹ️  
 ℹ️ **A ⭐ Denotes a Skill Badge course** ℹ️
 
 #### 👋 Welcome
@@ -9,6 +9,15 @@
 #### Pre-work
 - [Professional Cloud Architect Certification Exam Guide](https://cloud.google.com/learn/certification/cloud-architect?hl=en)
 - [Professional Cloud Architect Certification Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSf54f7FbtSJcXUY6-DUHfBG31jZ3pujgb8-a5io_9biJsNpqg/viewform)
+
+#### Week 3
+
+##### Material
+TBD
+
+##### Labs
+- [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.cloudskillsboost.google/course_templates/178)
+- [Deploy and Manage Cloud Environments with Google Cloud](https://www.cloudskillsboost.google/course_templates/641) ⭐
 
 #### 🕰️ Week 2
 
