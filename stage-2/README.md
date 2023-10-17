@@ -10,7 +10,7 @@
 - [Professional Cloud Architect Certification Exam Guide](https://cloud.google.com/learn/certification/cloud-architect?hl=en)
 - [Professional Cloud Architect Certification Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSf54f7FbtSJcXUY6-DUHfBG31jZ3pujgb8-a5io_9biJsNpqg/viewform)
 
-#### Week 3
+#### 🕰️ Week 3
 
 ##### Material
 TBD
